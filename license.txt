@@ -1,0 +1,11 @@
+Model Information:
+* title:	injection tube
+* source:	https://sketchfab.com/3d-models/injection-tube-b686fedc5bf74c44a96acf36341a5d9f
+* author:	vuhailong1282 (https://sketchfab.com/vuhailong1282)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "injection tube" (https://sketchfab.com/3d-models/injection-tube-b686fedc5bf74c44a96acf36341a5d9f) by vuhailong1282 (https://sketchfab.com/vuhailong1282) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
